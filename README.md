@@ -29,4 +29,4 @@ Bu projeyi çalıştırmak için aşağıdaki gereksinimlere ihtiyaç vardır:
 
 Bu projenin oluşturulmasında aşağıdaki kaynaklar kullanılmıştır:
 
-- D3.js (https://d3js.org/) - Veri görselleştirme kütüphanesi.
+- [D3.js](https://d3js.org/) - Veri görselleştirme kütüphanesi.
