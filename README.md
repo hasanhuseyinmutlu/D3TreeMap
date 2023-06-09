@@ -14,17 +14,6 @@ Bu proje, FreeCodeCamp'in bir klonudur ve çevrimiçi eğitim platformunun benze
 - Tooltip, bir alanın üzerine gelindiğinde ilgili alan hakkında daha fazla bilgi gösterir.
 - Legend, renk skalasının kategorilerini temsil eden dikdörtgenler içerir.
 
-## Kullanım
-
-1. Projeyi bilgisayarınıza indirin veya klonlayın.
-2. `index.html` dosyasını bir web tarayıcısıyla açın.
-
-## Gereksinimler
-
-Bu projeyi çalıştırmak için aşağıdaki gereksinimlere ihtiyaç vardır:
-
-- Web tarayıcısı (Google Chrome, Mozilla Firefox, vb.)
-
 ## Kaynaklar
 
 Bu projenin oluşturulmasında aşağıdaki kaynaklar kullanılmıştır:
