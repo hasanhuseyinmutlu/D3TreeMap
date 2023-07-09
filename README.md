@@ -1,6 +1,6 @@
 # Game Sales Tree Map
 
-burdan siteye göz atabilirsin [...](https://xacah-x.github.io/D3TreeMap/)
+burdan siteye göz atabilirsin [D3TreeMap]([https://xacah-x.github.io/D3TreeMap/](https://hasanhuseyinmutlu.github.io/D3TreeMap/))
 
 Bu proje, FreeCodeCamp'in bir klonudur ve çevrimiçi eğitim platformunun benzer bir versiyonunu sunmayı amaçlamaktadır.
 
